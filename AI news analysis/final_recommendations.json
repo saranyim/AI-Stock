@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "MSFT",
+    "news_score": 0.65,
+    "news_rec": "buy",
+    "trend": "Bullish (Up)",
+    "ema_signal": "Buy",
+    "price": 531.01,
+    "action": "🟢 STRONG BUY",
+    "reason": ""
+  },
+  {
+    "symbol": "VOW3.DE",
+    "news_score": 0.75,
+    "news_rec": "buy",
+    "trend": "Consolidating",
+    "ema_signal": "Hold",
+    "price": NaN,
+    "action": "🟡 BUY (Wait for EMA)",
+    "reason": ""
+  },
+  {
+    "symbol": "STLA.MI",
+    "news_score": 0.75,
+    "news_rec": "buy",
+    "trend": "N/A",
+    "ema_signal": "Hold",
+    "price": "N/A",
+    "action": "🟡 BUY (Wait for EMA)",
+    "reason": ""
+  },
+  {
+    "symbol": "BMW.DE",
+    "news_score": 0.75,
+    "news_rec": "buy",
+    "trend": "Consolidating",
+    "ema_signal": "Hold",
+    "price": NaN,
+    "action": "🟡 BUY (Wait for EMA)",
+    "reason": ""
+  },
+  {
+    "symbol": "UKX",
+    "news_score": 0.525,
+    "news_rec": "hold",
+    "trend": "N/A",
+    "ema_signal": "Hold",
+    "price": "N/A",
+    "action": "⚪ HOLD",
+    "reason": ""
+  },
+  {
+    "symbol": "LLOY",
+    "news_score": 0.4,
+    "news_rec": "hold",
+    "trend": "N/A",
+    "ema_signal": "Hold",
+    "price": "N/A",
+    "action": "⚪ HOLD",
+    "reason": ""
+  },
+  {
+    "symbol": "BARC",
+    "news_score": 0.4,
+    "news_rec": "hold",
+    "trend": "N/A",
+    "ema_signal": "Hold",
+    "price": "N/A",
+    "action": "⚪ HOLD",
+    "reason": ""
+  },
+  {
+    "symbol": "TSLA",
+    "news_score": 0.6,
+    "news_rec": "hold",
+    "trend": "Bullish (Up)",
+    "ema_signal": "Buy",
+    "price": 404.22,
+    "action": "⚪ HOLD",
+    "reason": ""
+  },
+  {
+    "symbol": "ENPH",
+    "news_score": 0.45,
+    "news_rec": "hold",
+    "trend": "Bearish (Down)",
+    "ema_signal": "Sell",
+    "price": 24.99,
+    "action": "🔴 SELL",
+    "reason": ""
+  },
+  {
+    "symbol": "SEDG",
+    "news_score": 0.45,
+    "news_rec": "hold",
+    "trend": "Bearish (Down)",
+    "ema_signal": "Sell",
+    "price": 29.49,
+    "action": "🔴 SELL",
+    "reason": ""
+  }
+]

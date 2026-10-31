@@ -1,0 +1,16 @@
+{
+    "ai": {
+        "base_url": "http://localhost:8000/v1",
+        "api_key": "sk-wd0WciDnVko1ZhyOP__zaw",
+        "model": "qwen35-think"
+    },
+    "news": {
+        "sources": ["newsapi", "finnhub"],
+        "min_sentiment_score": 0.3,
+        "max_stocks": 10
+    },
+    "api_keys": {
+        "newsapi": "your-newsapi-key",
+        "finnhub": "your-finnhub-key"
+    }
+}
