@@ -1,0 +1,7 @@
+{
+    "ai": {
+        "base_url": "http://localhost:8000/v1",
+        "api_key": "sk-wd0WciDnVko1ZhyOP__zaw",
+        "model": "qwen35-fast"
+    }
+}
