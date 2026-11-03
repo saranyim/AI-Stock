@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "HCA",
+    "price": 467.73,
+    "trend": "Bullish (Up)",
+    "rvol": "1.07x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "NXPI",
+    "price": 257.24,
+    "trend": "Bullish (Up)",
+    "rvol": "1.13x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "PYPL",
+    "price": 58.78,
+    "trend": "Bullish (Up)",
+    "rvol": "1.26x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "TEL",
+    "price": 217.51,
+    "trend": "Bullish (Up)",
+    "rvol": "1.1x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  }
+]

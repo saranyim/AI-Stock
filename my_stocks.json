@@ -1,12 +1,46 @@
 [
   {
+    "symbol": "nvda",
+    "buy_price": 210,
+    "buy_date": "2026-10-29"
+  },
+  {
+    "symbol": "googl",
+    "buy_price": 307,
+    "buy_date": "2026-10-29"
+  },
+  {
+    "symbol": "nflx",
+    "buy_price": 65,
+    "buy_date": "2026-10-29"
+  },
+  {
     "symbol": "NXPI",
     "buy_price": 249.49,
     "buy_date": "2026-10-29"
   },
   {
+    "symbol": "GPN",
+    "buy_price": 97.43,
+    "buy_date": "2026-11-2"
+  },
+  {
+    "symbol": "GDDY",
+    "buy_price": 117.8,
+    "buy_date": "2026-11-2"
+  },
+  {
     "symbol": "MSFT",
     "buy_price": 531.57,
     "buy_date": "2026-10-28"
+  },
+  {
+    "symbol": "ABNB",
+    "buy_price": 171.11,
+    "buy_date": "2026-11-03",
+    "initial_sl": 167.69,
+    "tp1": 179.67,
+    "tp2_lock_sl": 176.24,
+    "tp1_hit": false
   }
 ]
