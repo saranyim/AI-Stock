@@ -1,0 +1,49 @@
+[
+  {
+    "symbol": "NXPI",
+    "buy_price": 249.49,
+    "buy_date": "2026-10-29",
+    "current_price": 262.79,
+    "initial_sl": 244.5,
+    "tp1": 261.96,
+    "pnl_pct": 5.33,
+    "rvol": 0.9,
+    "ema20": 245.56,
+    "action": "🟢 TAKE PROFIT 1 (Sell 50%)",
+    "action_color": "green",
+    "close_date": "2026-11-04 13:25:30",
+    "close_action": "🟢 TAKE PROFIT 1 (Sell 50%)"
+  },
+  {
+    "symbol": "GDDY",
+    "buy_price": 117.8,
+    "buy_date": "2026-11-2",
+    "current_price": 113.45,
+    "initial_sl": 115.44,
+    "tp1": 123.69,
+    "pnl_pct": -3.69,
+    "rvol": 0.88,
+    "ema20": 108.15,
+    "action": "🔴 CUT LOSS (Sell All)",
+    "action_color": "red",
+    "close_date": "2026-11-04 13:25:36",
+    "close_action": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "ABNB",
+    "buy_price": 171.11,
+    "buy_date": "2026-11-03",
+    "initial_sl": 167.69,
+    "tp1": 179.67,
+    "tp2_lock_sl": 176.24,
+    "tp1_hit": false,
+    "current_price": 166.96,
+    "pnl_pct": -2.43,
+    "rvol": 1.12,
+    "ema20": 168.52,
+    "action": "🔴 CUT LOSS (Sell All)",
+    "action_color": "red",
+    "close_date": "2026-11-04 13:25:41",
+    "close_action": "🔴 CUT LOSS (Sell All)"
+  }
+]

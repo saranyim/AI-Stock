@@ -15,18 +15,8 @@
     "buy_date": "2026-10-29"
   },
   {
-    "symbol": "NXPI",
-    "buy_price": 249.49,
-    "buy_date": "2026-10-29"
-  },
-  {
     "symbol": "GPN",
     "buy_price": 97.43,
-    "buy_date": "2026-11-2"
-  },
-  {
-    "symbol": "GDDY",
-    "buy_price": 117.8,
     "buy_date": "2026-11-2"
   },
   {
@@ -35,12 +25,21 @@
     "buy_date": "2026-10-28"
   },
   {
-    "symbol": "ABNB",
-    "buy_price": 171.11,
-    "buy_date": "2026-11-03",
-    "initial_sl": 167.69,
-    "tp1": 179.67,
-    "tp2_lock_sl": 176.24,
+    "symbol": "LYV",
+    "buy_price": 178.87,
+    "buy_date": "2026-11-04",
+    "initial_sl": 175.29,
+    "tp1": 187.81,
+    "tp2_lock_sl": 184.24,
+    "tp1_hit": false
+  },
+  {
+    "symbol": "VRSN",
+    "buy_price": 313.88,
+    "buy_date": "2026-11-04",
+    "initial_sl": 307.6,
+    "tp1": 329.57,
+    "tp2_lock_sl": 323.3,
     "tp1_hit": false
   }
 ]
