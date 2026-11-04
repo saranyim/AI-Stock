@@ -253,20 +253,21 @@ tab1, tab2, tab3 = st.tabs(["🔍 Market Scanner (สแกนซื้อ)", "�
 # -----------------------------------------------------------------------------
 # TAB 1: MARKET SCANNER
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# TAB 1: MARKET SCANNER (Hardcode 500 Tickers - No Slider)
+# -----------------------------------------------------------------------------
 with tab1:
-    st.subheader("🔍 สแกนคัดกรองหุ้นสเปกเกรด A+ (S&P 500)")
+    st.subheader("🔍 สแกนคัดกรองหุ้นสเปกเกรด A+ (S&P 500 ทั้งหมด 500 ตัว)")
     
-    col_sc1, col_sc2 = st.columns([2, 1])
-    with col_sc1:
-        scan_limit = st.slider("จำนวนหุ้นที่จะสแกน (จาก S&P 500):", min_value=10, max_value=500, value=50, step=10)
-    with col_sc2:
-        st.write("")
-        st.write("")
-        run_scan_btn = st.button("🚀 เริ่มรันระบบสแกนประจำวัน", type="primary")
+    # Hardcode จำนวนหุ้นเป็น 500 ตัวโดยตรง (ไม่ใช้ Slider)
+    scan_limit = 500
+    
+    st.write("ระบบจะทำการสแกนหุ้นทั้งหมดใน S&P 500 (ประมาณ 500 ตัว) พร้อมระบบ Anti-Flood หน่วงเวลา 0.3s")
+    run_scan_btn = st.button("🚀 เริ่มรันระบบสแกนประจำวัน (500 หุ้น)", type="primary")
 
     if run_scan_btn:
         sp_tickers = load_sp500_list()[:scan_limit]
-        st.info(f"กำลังสแกนสัญญาณเทคนิค {len(sp_tickers)} ตัว (เปิดระบบ Anti-Flood Delay 0.3s)...")
+        st.info(f"กำลังสแกนสัญญาณเทคนิคหุ้น S&P 500 จำนวน {len(sp_tickers)} ตัว...")
         
         progress_bar = st.progress(0)
         matched_stocks = []
@@ -275,7 +276,7 @@ with tab1:
             progress_bar.progress((idx + 1) / len(sp_tickers))
             try:
                 df = yf.download(ticker, period="1y", interval="1d", auto_adjust=True, progress=False)
-                time.sleep(0.3)  # Anti-Flood Delay
+                time.sleep(0.3)  # Anti-Flood Delay ชะลอเวลาป้องกัน Rate Limit
                 
                 if df.empty or len(df) < 200: continue
                 if isinstance(df.columns, pd.MultiIndex): df.columns = df.columns.get_level_values(0)
@@ -305,7 +306,7 @@ with tab1:
             except Exception:
                 continue
 
-        st.success(f"พบหุ้นเข้าเกณฑ์ A+ ทั้งหมด {len(matched_stocks)} ตัว!")
+        st.success(f"สแกนครบ 500 ตัวเรียบร้อย! พบหุ้นเข้าเกณฑ์ A+ ทั้งหมด {len(matched_stocks)} ตัว")
 
         if matched_stocks:
             st.write("---")
