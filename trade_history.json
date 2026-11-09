@@ -45,5 +45,85 @@
     "action_color": "red",
     "close_date": "2026-11-04 13:25:41",
     "close_action": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "MSFT",
+    "buy_price": 531.57,
+    "buy_date": "2026-10-28",
+    "current_price": 555.8,
+    "initial_sl": 520.94,
+    "tp1": 558.15,
+    "pnl_pct": 4.56,
+    "rvol": 2.11,
+    "ema20": 527.34,
+    "action": "⚪ HOLD",
+    "action_color": "gray",
+    "close_date": "2026-11-05 10:49:29",
+    "close_action": "⚪ HOLD"
+  },
+  {
+    "symbol": "nvda",
+    "buy_price": 210,
+    "buy_date": "2026-10-29",
+    "closed_at": "2026-11-09 13:43:21",
+    "close_reason": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "googl",
+    "buy_price": 307,
+    "buy_date": "2026-10-29",
+    "closed_at": "2026-11-09 13:43:21",
+    "close_reason": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "nflx",
+    "buy_price": 65,
+    "buy_date": "2026-10-29",
+    "closed_at": "2026-11-09 13:43:22",
+    "close_reason": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "LYV",
+    "buy_price": 178.87,
+    "buy_date": "2026-11-04",
+    "initial_sl": 175.29,
+    "tp1": 187.81,
+    "tp2_lock_sl": 184.24,
+    "tp1_hit": false,
+    "closed_at": "2026-11-09 13:43:22",
+    "close_reason": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "VRSN",
+    "buy_price": 313.88,
+    "buy_date": "2026-11-04",
+    "initial_sl": 307.6,
+    "tp1": 329.57,
+    "tp2_lock_sl": 323.3,
+    "tp1_hit": false,
+    "closed_at": "2026-11-09 13:43:22",
+    "close_reason": "🔵 DYNAMIC EXIT (เห็นแท่งกลับตัวใกล้ EMA9 / หมดแรง ให้ขายล็อกกำไร)"
+  },
+  {
+    "symbol": "AAPL",
+    "buy_price": 349.51,
+    "buy_date": "2026-11-05",
+    "initial_sl": 342.52,
+    "tp1": 366.99,
+    "tp2_lock_sl": 360.0,
+    "tp1_hit": false,
+    "closed_at": "2026-11-09 13:43:22",
+    "close_reason": "🔴 CUT LOSS (Sell All)"
+  },
+  {
+    "symbol": "SO",
+    "buy_price": 93.12,
+    "buy_date": "2026-11-05",
+    "initial_sl": 91.26,
+    "tp1": 97.78,
+    "tp2_lock_sl": 95.91,
+    "tp1_hit": false,
+    "closed_at": "2026-11-09 13:43:22",
+    "close_reason": "🔵 DYNAMIC EXIT (เห็นแท่งกลับตัวใกล้ EMA9 / หมดแรง ให้ขายล็อกกำไร)"
   }
 ]

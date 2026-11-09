@@ -1,45 +1,34 @@
 [
   {
-    "symbol": "nvda",
-    "buy_price": 210,
-    "buy_date": "2026-10-29"
-  },
-  {
-    "symbol": "googl",
-    "buy_price": 307,
-    "buy_date": "2026-10-29"
-  },
-  {
-    "symbol": "nflx",
-    "buy_price": 65,
-    "buy_date": "2026-10-29"
-  },
-  {
     "symbol": "GPN",
     "buy_price": 97.43,
     "buy_date": "2026-11-2"
   },
   {
-    "symbol": "MSFT",
-    "buy_price": 531.57,
-    "buy_date": "2026-10-28"
-  },
-  {
-    "symbol": "LYV",
-    "buy_price": 178.87,
-    "buy_date": "2026-11-04",
-    "initial_sl": 175.29,
-    "tp1": 187.81,
-    "tp2_lock_sl": 184.24,
+    "symbol": "ETR",
+    "buy_price": 111.9,
+    "buy_date": "2026-11-05",
+    "initial_sl": 109.66,
+    "tp1": 117.5,
+    "tp2_lock_sl": 115.26,
     "tp1_hit": false
   },
   {
-    "symbol": "VRSN",
-    "buy_price": 313.88,
-    "buy_date": "2026-11-04",
-    "initial_sl": 307.6,
-    "tp1": 329.57,
-    "tp2_lock_sl": 323.3,
+    "symbol": "EVRG",
+    "buy_price": 86.21,
+    "buy_date": "2026-11-05",
+    "initial_sl": 84.49,
+    "tp1": 90.52,
+    "tp2_lock_sl": 88.8,
+    "tp1_hit": false
+  },
+  {
+    "symbol": "HUM",
+    "buy_price": 433.74,
+    "buy_date": "2026-11-07",
+    "initial_sl": 425.07,
+    "tp1": 455.43,
+    "tp2_lock_sl": 446.75,
     "tp1_hit": false
   }
 ]

@@ -1,36 +1,45 @@
 [
   {
     "symbol": "HCA",
-    "price": 462.86,
+    "price": 494.99,
     "trend": "Bullish (Up)",
-    "rvol": "0.77x",
+    "rvol": "1.0x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "IQV",
+    "price": 271.83,
+    "trend": "Bullish (Up)",
+    "rvol": "0.99x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "NXPI",
-    "price": 262.79,
+    "price": 248.29,
     "trend": "Bullish (Up)",
-    "rvol": "0.9x",
+    "rvol": "1.33x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "PYPL",
-    "price": 58.21,
+    "price": 59.24,
     "trend": "Bullish (Up)",
-    "rvol": "0.56x",
+    "rvol": "0.64x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
-    "symbol": "TEL",
-    "price": 219.77,
+    "symbol": "CNC",
+    "price": 69.74,
     "trend": "Bullish (Up)",
-    "rvol": "0.65x",
+    "rvol": "1.02x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
