@@ -1,0 +1,254 @@
+{
+  "timestamp": "2026-11-11T13:19:02.697753",
+  "total_articles": 40,
+  "source_stats": {
+    "Yahoo Finance": 16,
+    "Fed Policy": 20,
+    "Seeking Alpha": 30,
+    "CoinDesk": 25,
+    "OilPrice": 15,
+    "Zacks": 0
+  },
+  "articles": [
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Data Center Infrastructure Stocks Retail Investors Are Watching Beyond Nvidia",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-data-center-infrastructure-stocks-043250014.html?.tsrc=rss",
+      "summary": "Nvidia is under a harsh spotlight as allegations of AI chip smuggling, export control questions, and an internal board investigation collide with a tight regulatory mood, and that kind of pressure can shuffle where money flows in data center infrastructure and power providers. When a giant is distra"
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Bloodbath Over by November’s End? Crypto Bettors Weigh NVDA Stock’s Next Move as Jensen Huang Controversy Brews",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63130036/nvidia-price-crypto-bettors-november-end?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "summary": "NVIDIA Corp. (NASDAQ:NVDA) shares are under selling pressure, and cryptocurrency punters remain skeptical about a rebound by the month’s end. Will NVDA Plunge to $140? The betting crowd on Polygon (CRYPTO: POL)-based Polymarket currently assigns a 90% chance that NVDA..."
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-after-red-hot-inflation-data-and-nvidia-losses-crwv-ttwo-nlst-nbis-in-focus/cNGDaIOR9J8?.tsrc=rss",
+      "summary": "October’s Consumer Price Index data came in red hot, rising 0.4% month-on-month, ahead of the consensus estimates."
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Shares Just Crashed Nearly 30% in Five Weeks. Dan Ives Says Losing Jensen Huang Would Cost Up to 30% More. Here’s the Math",
+      "link": "https://247wallst.com/investing/2026/11/10/nvidia-shares-just-crashed-nearly-30-in-five-weeks-dan-ives-says-losing-jensen-huang-would-cost-up-to-30-more-heres-the-math/?.tsrc=rss",
+      "summary": "Nvidia closed Tuesday at $168.89, nearly 30% below its October 6 record, with about $430 billion of the $1.7 trillion lost coming in the two sessions since Jensen Huang's letter: six times what Enron was worth at its peak. Dan Ives says the stock is worth 25% to 30% less if Huang goes. Here is that "
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Has No Obvious Jensen Huang Successor. That’s Becoming a Bigger Problem",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-no-obvious-jensen-huang-030947978.html?.tsrc=rss",
+      "summary": "Nvidia Corp has spent years building an AI empire around Jensen Huang. But the controversy surrounding its longtime CEO is exposing an uncomfortable vulnerability: The company has no clear successor ready to take over if Huang steps aside. For investors,..."
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Robinhood's Latest Earnings Report Tells You All You Need to Know About the Future of Crypto. These 2 Numbers Really Stood Out.",
+      "link": "https://www.fool.com/investing/2026/11/11/robinhoods-latest-earnings-report-tells-you-all-yo/?.tsrc=rss",
+      "summary": "Robinhood Chain brought in $26 million, and prediction markets brought in $173 million last quarter. Here's where Robinhood's growth could come from next."
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-facing-051434115.html?.tsrc=rss",
+      "summary": "AI chip stocks are being pulled in opposite directions right now as hotter October inflation, surging Treasury yields, and fresh Nvidia headlines collide with a powerful upswing in reported demand, including TSMC’s October revenue at nearly six times last year’s level. That mix creates real pressure"
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kraft Heinz Yields 6.6% and Coca-Cola Yields 2.3%. Here's Why Only 1 of These Dividend Stocks Is a Buy This November.",
+      "link": "https://www.fool.com/investing/2026/11/10/kraft-heinz-yields-66-and-coca-cola-yields-23/?.tsrc=rss",
+      "summary": "One stock offers a massive 6.6% yield, while the other pays a modest 2.3%. Here's why the smaller dividend is actually the better buy for serious income investors right now."
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "summary": "Federal Reserve issues FOMC statement"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families"
+    },
+    {
+      "source": "Fed Policy",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Firefly Aerospace Inc. (FLY) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4966221-firefly-aerospace-inc-fly-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Volatus Aerospace Inc. (FLT:CA) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4966230-volatus-aerospace-inc-flt-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Celestica: Crushed Valuation And Massive Upside Potential",
+      "link": "https://seekingalpha.com/article/4966284-celestica-stock-crushed-valuation-and-massive-upside-potential?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "QuickLogic Corporation (QUIK) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4966224-quicklogic-corporation-quik-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Medios AG (MEDOF) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4966296-medios-ag-medof-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "The Beachbody Company, Inc. (BODI) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4966299-the-beachbody-company-inc-bodi-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "10 Questions For China In 2027",
+      "link": "https://seekingalpha.com/article/4966298-10-questions-for-china-2027?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Axon Enterprise, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4966297-axon-enterprise-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "summary": ""
+    },
+    {
+      "source": "OilPrice",
+      "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html",
+      "summary": "Crude oil prices reversed their fall from earlier this week as traders grew less optimistic about a peace deal between the United States and Iran amid continuing tanker attacks in the Strait of Hormuz, with a record number of such attacks in October. At the time of writing, Brent crude was trading a"
+    },
+    {
+      "source": "OilPrice",
+      "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html",
+      "summary": "Crude oil flows through the Strait of Hormuz and the whole Middle Eastern region have recovered to close to pre-war levels, vessel-tracking services have been signaling for over a month now. Middle Eastern benchmarks have been weakening for weeks, suggesting an oil glut may be building amid reboundi"
+    },
+    {
+      "source": "OilPrice",
+      "title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+      "link": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
+      "summary": "South Sudan is courting fresh capital for 14 exploration blocks and a production increase from roughly 170,000 barrels per day to 230,000, which investors would find impossible to control once those barrels left the country. Captive to neighboring Sudan’s civil war, South Sudan is essentially divvyi"
+    },
+    {
+      "source": "OilPrice",
+      "title": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+      "link": "https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html",
+      "summary": "The Democratic Party’s decisive victory in the U.S. midterm elections has been widely called bad news for Trump policies, but now, it could interfere with legislation that previously drew support from both parties in Congress—and the GOP’s ambitions for energy independence and dominance. The bill in"
+    },
+    {
+      "source": "OilPrice",
+      "title": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet",
+      "link": "https://oilprice.com/Metals/Commodities/A-Geologic-Freak-in-Arkansas-Is-Big-Oils-New-Lithium-Bet.html",
+      "summary": "The world is electrifying at an unprecedented pace, and it’s only going to keep speeding up. COP 31, the latest iteration of the United Nations’ annual climate conference, kicked off today in Antalya, Türkiye, and achieving 35 percent global electrification by 2035 is going to be one of the event’s "
+    },
+    {
+      "source": "OilPrice",
+      "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Build-in-US-Crude-Oil-Distillate-Inventories.html",
+      "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 9.0 million barrels in the week ending November 6. In the week prior, US crude oil inventories fell by 5.267 million barrels. Commercial crude oil inventories excluding the SPR have lost more tha"
+    },
+    {
+      "source": "OilPrice",
+      "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
+      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
+      "summary": "On Tuesday the Houthis launched another major missile salvo deep inside Saudi Arabia, however Saudi authorities have yet to acknowledge the fresh attack, or to publicly assess possible damage - though there are reports of missile alerts in the kingdom. The Houthi military spokesperson, Yahya Saree, "
+    },
+    {
+      "source": "OilPrice",
+      "title": "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
+      "link": "https://oilprice.com/Energy/Energy-General/British-Airways-Owner-Warns-Green-Fuel-Mandates-Could-Kill-European-Aviation.html",
+      "summary": "The chief executive of British Airways’ parent company has said planned environmental charges on airlines would “kill” the European aviation industry and push up fares. Luis Gallego, the chief executive of International Airlines Group (IAG), has warned the proposed green charges – which are more bur"
+    }
+  ]
+}

@@ -1,45 +1,72 @@
 [
   {
-    "symbol": "HCA",
-    "price": 494.99,
+    "symbol": "BAX",
+    "price": 26.42,
     "trend": "Bullish (Up)",
-    "rvol": "1.0x",
+    "rvol": "0.51x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "HCA",
+    "price": 504.42,
+    "trend": "Bullish (Up)",
+    "rvol": "0.75x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "IQV",
-    "price": 271.83,
+    "price": 275.15,
     "trend": "Bullish (Up)",
-    "rvol": "0.99x",
+    "rvol": "0.71x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "NXPI",
-    "price": 248.29,
+    "price": 261.56,
     "trend": "Bullish (Up)",
-    "rvol": "1.33x",
+    "rvol": "0.59x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "PYPL",
-    "price": 59.24,
+    "price": 58.78,
     "trend": "Bullish (Up)",
-    "rvol": "0.64x",
+    "rvol": "0.54x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
   },
   {
     "symbol": "CNC",
-    "price": 69.74,
+    "price": 70.19,
     "trend": "Bullish (Up)",
-    "rvol": "1.02x",
+    "rvol": "1.06x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "TEL",
+    "price": 217.76,
+    "trend": "Bullish (Up)",
+    "rvol": "0.8x",
+    "risk_status": "PASS",
+    "action": "🟡 BUY (โวลุ่มปานกลาง)",
+    "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"
+  },
+  {
+    "symbol": "CDNS",
+    "price": 331.64,
+    "trend": "Bullish (Up)",
+    "rvol": "0.63x",
     "risk_status": "PASS",
     "action": "🟡 BUY (โวลุ่มปานกลาง)",
     "reasoning": "ไม่พบข่าวสารล่าสุด (No news found) - ให้ใช้องค์ประกอบเทคนิค (EMA/RVOL) เป็นหลัก"

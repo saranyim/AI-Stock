@@ -91,7 +91,7 @@ def check_system_health(ai_config: dict) -> bool:
         test_ticker = yf.Ticker("QQQ")
         if test_ticker.news:
             print("🟢 [NEWS APIS]: Yahoo Finance Connected")
-            news_ok = True
+            # news_ok = True
     except Exception:
         pass
         
@@ -100,7 +100,13 @@ def check_system_health(ai_config: dict) -> bool:
         fallback_rss = [
             "https://search.cnbc.com/rs/search/combined Garfield/rss.xml",
             "https://www.investing.com/rss/news.rss",
-            "https://feeds.bbci.co.uk/news/business/rss.xml"
+            "https://feeds.bbci.co.uk/news/business/rss.xml",
+            "https://www.federalreserve.gov/feeds/press_all.xml",
+            "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+            "https://www.benzinga.com/feed",
+            "https://www.zacks.com/rss/news/",
+            "https://oilprice.com/rss/main",
+            "https://www.coindesk.com/arc/outboundfeeds/rss/"
         ]
         for rss_url in fallback_rss:
             try:
