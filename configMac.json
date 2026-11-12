@@ -1,0 +1,8 @@
+{
+    "ai": {
+        "base_url": "http://localhost:11434",
+        "api_key": "28a45ccb36e94333be82f85c378dbe58.p2e73K98nyE0B15JIK1NtQlm",
+        "model": "qwen2.5:7b"
+    }
+}
+
