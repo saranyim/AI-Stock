@@ -25,7 +25,7 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
 
-CONFIG_PATH = "config.json"
+CONFIG_PATH = "configmac.json"
 SP500_CSV_PATH = "sp500_companies.csv"
 CACHE_NEWS_PATH = "temp_fetched_news.json"
 OUTPUT_MD_PATH = "daily_macro_watchlist.md"
